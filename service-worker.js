@@ -1,4 +1,4 @@
-/* Manifest version: x947ZIPU */
+/* Manifest version: PCDsazxg */
 self.importScripts('./service-worker-assets.js');
 
 const cacheNamePrefix = 'gorditas-cache-';
